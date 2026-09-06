@@ -1,0 +1,11 @@
+jupyterlab
+ipykernel
+lightkurve
+matplotlib
+numpy
+pandas
+requests
+scikit-learn
+seaborn
+torch
+tqdm
