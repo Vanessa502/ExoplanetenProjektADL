@@ -1,0 +1,25 @@
+# Virtuelle Umgebungen
+.venv/
+
+# Loakle Konfigurationsdateien
+.vscode/
+
+# Python-Cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datenpfade
+data/raw/
+data/interim/
+
+# Trainierte Modellgewichte
+*.pt
+*.pth
+
+# Temporäre Dateien
+*.tmp
+.DS_Store
+Thumbs.db
+
+availability_results_100_sample.csv
