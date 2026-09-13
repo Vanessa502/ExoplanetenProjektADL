@@ -86,3 +86,14 @@ Notebook 04 begonnen werden.
 
 Die zusammengefassten Resultate befinden sich in
 `results/final_evaluation/final_metrics_table.csv`.
+
+
+## Hinweis zur Nutzung von KI
+
+Bei der Entwicklung dieses Projektes wurde generative KI unterstützend
+eingesetzt, insbesondere "GPT-5.6 Sol von OpenAI". Die Unterstützung umfasste
+die Konzeption und Überarbeitung von Quellcode sowie die sprachliche und
+strukturelle Ausarbeitung der Projektdokumentation bzw. des Papers.
+Alle KI-generierten Vorschläge wurden geprüft und bei Bedarf angepasst. 
+Methodik, Implementierung, Interpretation und dargestellte Ergebnisse wurden
+eigenständig verantwortet.
